@@ -49,6 +49,7 @@ console.log('--- 4. Adding and removing array items ---');
 
 // Example: Add an animal to the end using Array.push
 animalArray.push('penguin');
+
 console.log('Added an animal to end,', animalArray);
 
 // 4.a. TODO: Add a new food at the end of your array & log the array
